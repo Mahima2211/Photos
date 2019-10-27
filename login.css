@@ -1,0 +1,24 @@
+.anchor{
+	-fx-background-image: url('logo.jpg');
+}
+
+.text-field{
+	-fx-background-color: white;
+	-fx-border-color: #f00298;
+	-fx-border-width: 2;
+	-fx-border-radius: 1;
+	
+}
+
+.button{
+	-fx-background-color: #f00298;
+	-fx-text-fill: white;
+}
+
+.button:hover{
+	-fx-background-color: black;
+}
+
+.label{
+	-fx-text-fill: black;
+}
